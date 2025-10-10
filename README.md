@@ -80,7 +80,8 @@ While we don’t maintain public repos (yet), we share back via:
 - 🔗 [LinkedIn](https://linkedin.com/company/sprints-sneakers)  
 - ▶️ [YouTube](https://youtube.com/@sprintsandsneakers)  
 - ✉️ hello@sprintsandsneakers.com  
-- 📍 Duivendrechtsekade 80B, 1096 AH Amsterdam  
+- 📍 Adress Amsterdam: Duivendrechtsekade 80B, 1096 AH
+- 📍 Adress Groningen: Oude Boteringestraat 49, 9712 GE
 
 ---
 
