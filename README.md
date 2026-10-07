@@ -74,7 +74,8 @@ Watch this space. ⭐
   <a href="https://www.youtube.com/@sprintsandsneakers"><img src="https://img.shields.io/badge/YouTube-0A0A0A?style=for-the-badge&logo=youtube&logoColor=A6FF00" alt="YouTube" /></a>
 </p>
 
-📍 **Amsterdam**: Duivendrechtsekade 80B, 1096 AH &nbsp;·&nbsp; 📍 **Groningen**: Oude Boteringestraat 49, 9712 GE
-✉️ hello@sprintsandsneakers.com
+- 📍 **Amsterdam**: Duivendrechtsekade 80B, 1096 AH
+- 📍 **Groningen**: Oude Boteringestraat 49, 9712 GE
+- ✉️ [hello@sprintsandsneakers.com](mailto:hello@sprintsandsneakers.com)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=70&text=Let%27s%20build%20together.&fontColor=A6FF00&fontSize=26" width="100%" alt="Let's build together." />
