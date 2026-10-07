@@ -57,13 +57,28 @@ We wear sneakers, not suits.
 
 ### 🤝 Community & open source
 
-We stand on the shoulders of open source. While we don't maintain public repos (yet), we share back via:
+We stand on the shoulders of open source, so we share back. Our first public repos are Claude skill bundles straight from our creative pipeline:
 
-- 📄 Blogs & whitepapers
-- 🎤 Festival sessions
-- 🛠️ Applying open tech to real-world growth challenges
+| Bundle | What it does |
+|---|---|
+| 🔎 **[Creative Research Bundle](https://github.com/Sprints-and-Sneakers/creative-research-bundle)** | 7 skills that turn raw market data into a creative brief, an audience blueprint and a ranked, evidence-linked angle bank. |
+| ✍️ **[Creative Copywriting Bundle](https://github.com/Sprints-and-Sneakers/creative-copywriting-bundle)** | 6 skills that turn research into scored, production-ready ad copy, with two independent quality gates. |
 
-Watch this space. ⭐
+```text
+ RESEARCH ──▶ BRIEF ──▶ ANGLE BANK ──▶ COPY ──▶ SELF-SCORE ──▶ COLD REVIEW
+ └────── creative-research ──────┘     └──────── creative-copywriting ────────┘
+```
+
+Works in the Claude app, Claude Code and the Claude API. In Claude Code:
+
+```text
+/plugin marketplace add Sprints-and-Sneakers/creative-research-bundle
+/plugin install creative-research
+/plugin marketplace add Sprints-and-Sneakers/creative-copywriting-bundle
+/plugin install creative-copywriting
+```
+
+We also share back through blogs, whitepapers and festival sessions. More repos coming. ⭐
 
 ### 📬 Let's connect
 
